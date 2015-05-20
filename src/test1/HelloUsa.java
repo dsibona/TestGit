@@ -1,9 +1,9 @@
 package test1;
 
-public class HelloWorld
+public class HelloUsa
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello world!");
+        System.out.println("Good Morning America!");
     }
 }
